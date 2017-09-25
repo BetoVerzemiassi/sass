@@ -10,6 +10,6 @@
 
 > ruby -v
 
-* 4º Deve aparecer a versão que foi instalada do Ruby, alog como:
+* 4º Deve aparecer a versão que foi instalada do Ruby, algo como:
 
 > Ruby -v no prompt do Windows
