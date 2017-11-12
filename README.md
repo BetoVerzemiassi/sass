@@ -13,3 +13,17 @@
 * 4º Deve aparecer a versão que foi instalada do Ruby, algo como:
 
 > Ruby -v no prompt do Windows
+
+# Instalando o Compass
+
+* 1 - No terminal/prompt dê o comando:
+
+> **gem install compass**
+
+* 2 - Depois navegue via terminal até a pasta do projeto:
+
+* **cd "caminho-do-projeto"**
+
+* 3 - Depois dê o comando:
+
+* **compass create**
